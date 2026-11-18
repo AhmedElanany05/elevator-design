@@ -12,6 +12,18 @@ Ahmed Mohamed Elanany
   <img src="images/elevator_assembly.png" alt="Elevator assembly" width="360">
 </p>
 
+## Demo
+
+▶️ [Watch the elevator working](videos/elevator_demo.mp4)
+
+## Cutting drawings
+
+The 2D drawings of the elevator: front and side views of the shaft, the top views, and every flat part laid out for cutting.
+
+<p align="center">
+  <img src="images/laser_cut_drawings.jpg" alt="2D cutting drawings of the elevator" width="900">
+</p>
+
 ## All parts
 
 <p align="center">
